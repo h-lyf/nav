@@ -1,0 +1,13 @@
+name = "nav"
+account_id = "4a6d76159434f660530f0bb4f87661f0"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+[[d1_databases]]
+binding = "NAV_DB"
+database_name = "book"
+database_id = "007cf6a0-d002-422b-8953-c590faab0dfc"
+
+[[kv_namespaces]]
+binding = "NAV_AUTH"
+id = "8138539a1ea74185a6b1891fcbccefcb"
